@@ -3,39 +3,37 @@
 ![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
 
 ## Objective
-The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
-
+The primary aim of this project is to analyze the online sales data of Monday Coffee, a brand that began its digital operations in January 2023. Using this data, we intend to identify and recommend the top three major cities in India that present the best opportunities for establishing new physical coffee shop locations. The recommendation will be based on factors such as consumer demand, revenue performance, customer base, and cost metrics.
 ## Key Questions
 1. **Coffee Consumers Count**  
-   How many people in each city are estimated to consume coffee, given that 25% of the population does?
+   What is the estimated number of coffee consumers in each city, assuming that 25% of the city's total population consumes coffee?
 
 2. **Total Revenue from Coffee Sales**  
-   What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
+  What is the overall revenue generated from coffee product sales across all cities during the final quarter (October–December) of 2023?
 
 3. **Sales Count for Each Product**  
-   How many units of each coffee product have been sold?
+   How many units of each individual coffee product have been sold across all cities?
 
 4. **Average Sales Amount per City**  
-   What is the average sales amount per customer in each city?
+   What is the average sales amount generated per customer in each city?
 
 5. **City Population and Coffee Consumers**  
-   Provide a list of cities along with their populations and estimated coffee consumers.
+   Can we compile a list showing each city's total population along with the estimated number of coffee consumers?
 
 6. **Top Selling Products by City**  
-   What are the top 3 selling products in each city based on sales volume?
+   What are the top three best-selling coffee products in each city based on sales volume?
 
 7. **Customer Segmentation by City**  
-   How many unique customers are there in each city who have purchased coffee products?
+  How many unique customers have made coffee purchases in each city?
 
 8. **Average Sale vs Rent**  
-   Find each city and their average sale per customer and avg rent per customer
+   For each city, what are the average sales per customer and the average rent per customer? How do these metrics compare to identify the most financially viable cities?
 
 9. **Monthly Sales Growth**  
-   Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+   What is the month-over-month percentage growth (or decline) in sales? Calculate and analyze the sales trends across different months to understand overall business momentum and seasonality.
 
 10. **Market Potential Analysis**  
-    Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated  coffee consumer
-    
+    Identify the top three cities with the highest market potential. For each selected city, provide details including the total sales revenue, total rent costs, total number of unique customers, and the estimated number of coffee consumers.
 
 ## Recommendations
 After analyzing the data, the recommended top three cities for new store openings are:
